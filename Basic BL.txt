@@ -1,5 +1,5 @@
 spectrum.s3.amazonaws.com
-benjamin.logs.roku.com
+logs.roku.com
 firebase-settings.crashlytics.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
@@ -16,7 +16,6 @@ location.bloomberg.com
 static8.mixi.media
 chimpstatic.com
 contributions.guardianapis.com
-liberty.logs.roku.com
 oops.redditmedia.com
 assets.adobedtm.com
 cdn.js7k.com
@@ -40,8 +39,6 @@ ads-api.ft.com
 api-esp.piano.io
 pubgw.ads.yahoo.com
 www.googleoptimize.com
-scribe.logs.roku.com
-Unknown
 www.google-analytics.com
 metrics.icloud.com
 static.scroll.com
@@ -101,14 +98,13 @@ api.us-east-1.aiv-delivery.net
 fls-na.amazon.com
 device-metrics-us-2.amazon.com
 search.spotxchange.com
-dpm.demdex.net
+demdex.net
 saa.cbsi.com
-p.ads.roku.com
+ads.roku.com
 services.brightline.tv
 nbcstreaming.sc.omtrdc.net
 cdn.concert.io
 static.narrativ.com
-geo.yahoo.com
 geo.query.yahoo.com
 opus.analytics.yahoo.com
 prod-m-node-1211.ssp.advertising.com
@@ -143,7 +139,6 @@ cdn.districtm.ca
 bcp.crwdcntrl.net
 tags.crwdcntrl.net
 z.moatads.com
-cbsi.demdex.net
 production-cmp.isgprivacy.cbsi.com
 segment.psg.nexstardigital.net
 google-analytics.com
@@ -202,7 +197,6 @@ app.backinstock.org
 app.link
 appboy.com
 appsflyer.com
-arcpublishing.com
 block-test.developerdan.com
 branch.io
 brandmetrics.com
@@ -214,7 +208,7 @@ c.paypal.com
 ca-eu.cookie-script.com
 campaign.fbot.me
 cbsi-d.openx.net
-ccncomments.disqus.com
+disqus.com
 ccpa-wrapper.privacymanager.io
 cdn-images.mailchimp.com
 cdn-loyalty.yotpo.com
@@ -251,7 +245,6 @@ d2p9l91d5g68ru.cloudfront.net
 d335luupugsy2.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 development-analytics.zeustechnology.com
-discover.tt.omtrdc.net
 display.ugc.bazaarvoice.com
 disqus.com
 dojx47ab4dyxi.cloudfront.net
@@ -286,8 +279,6 @@ api.p001.1drv.com
 i.ads.roku.com
 ibclick.stream
 icanhazip.com
-identity.ads.roku.com
-idownloadblog.disqus.com
 imagesvc.meredithcorp.io
 img.litix.io
 in.appcenter.ms
@@ -305,23 +296,19 @@ lookaside.facebook.com
 m.alto.com
 mackeeper.com
 marvel-b2-cdn.bc0a.com
-mashvisor.disqus.com
 media.whatcounts.com
 media2.fdncms.com
 mediaite.disqus.com
 mil.ru
 mixpanel.com
 mobile.launchdarkly.com
-mobile.logs.roku.com
 monorail-edge.shopifysvc.com
 myip.dnsomatic.com
-nektony-com-1.disqus.com
 nexstar.zeustechnology.com
 nile.works
 nypost-com.videoplayerhub.com
 ingest.sentry.io
 oc.brcclx.com
-omtrdc.net
 open-api.spot.im
 openweb.jac.yahoosandbox.com
 parking.bodiscdn.com
@@ -332,7 +319,6 @@ public.fbot.me
 pusher.com
 quantcast.mgr.consensu.org
 ravm.tv
-realtime.services.disqus.com
 recsys-api.buzzfeed.com
 reddit.app.link
 reddit.report-uri.com
@@ -404,7 +390,6 @@ www.networkadvertising.org
 www.queryly.com
 www.scribd.com
 www.snapengage.com
-www.tiktok.com
 x.ss2.us
 yahoovod.hs.llnwd.net
 zerossl.crt.sectigo.com
@@ -496,8 +481,7 @@ e.serverbid.com
 krk.kargo.com
 a.teads.tv
 prebid-server.rubiconproject.com
-trc.taboola.com
-images.taboola.com
+taboola.com
 sp.desmoinesregister.com
 api.btloader.com
 1.gravatar.com
@@ -523,13 +507,12 @@ gannett-d.openx.net
 gateway.facebook.com
 global.ketchcdn.com
 graham-wplg.zeustechnology.com
-gray-wdtv-prod.cdn.arcpublishing.com
-gray-wluc-prod.cdn.arcpublishing.com
+cdn.arcpublishing.com
 img.tfd.com
 ssl.fastly.net
 login.cbc.ca
 mobile-sdk-lib-ca-1.brilliantcollector.com
-o260369.ingest.sentry.io
+sentry.io
 p.cpx.to
 paywall-prod.appspot.com
 pendo.io
@@ -543,7 +526,6 @@ scorecardresearch.com
 user.desmoinesregister.com
 vd.trinitymedia.ai
 x-default-stgec.uplynk.com
-disney.demdex.net
 disney.my.sentry.io
 sanalytics.disneyplus.com
 cbsinteractive.hb.omtrdc.net
