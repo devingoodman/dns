@@ -535,3 +535,5 @@ cookie-cdn.cookiepro.com
 geo.yahoo.com
 yahoo.uservoice.com
 www.adtech.yahooinc.com
+px-conf.perimeterx.net
+ads.flurry.com
