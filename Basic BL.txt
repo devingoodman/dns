@@ -547,3 +547,7 @@ vd.trinitymedia.ai
 ww62.dnsbltest.com
 x-default-stgec.uplynk.com
 zndhztugwqhlulqht-aexpfeedback.siteintercept.qualtrics.com
+disney.demdex.net
+disney.my.sentry.io
+sanalytics.disneyplus.com
+7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
