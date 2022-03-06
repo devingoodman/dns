@@ -88,7 +88,6 @@ targeting.washpost.nile.works
 device-api.urbanairship.com
 remote-data.urbanairship.com
 optanon.blob.core.windows.net
-sb.scorecardresearch.com
 combine.urbanairship.com
 aax.amazon-adsystem.com
 googleads.g.doubleclick.net
@@ -235,7 +234,6 @@ cdn.vuukle.com
 cdnen.rt.com
 cerebro.edna.yahoo.net
 check.ddos-guard.net
-chicago.suntimes.com
 cloudfront-us-east-2.images.arcpublishing.com
 consent.cmp.oath.com
 consent.truste.com
@@ -505,7 +503,7 @@ api.btloader.com
 1.gravatar.com
 390109.smushcdn.com
 3ie87c2dond928rt2e2zzo8o-wpengine.netdna-ssl.com
-5d79bce7-5d2b-427e-a6c4-b89b6c7bf048.edge.permutive.app
+edge.permutive.app
 apex-wbs-prd.ucsfmedicalcenter.org
 api.dmcdn.net
 api.userway.org
@@ -528,7 +526,7 @@ graham-wplg.zeustechnology.com
 gray-wdtv-prod.cdn.arcpublishing.com
 gray-wluc-prod.cdn.arcpublishing.com
 img.tfd.com
-includemodal.global.ssl.fastly.net
+ssl.fastly.net
 login.cbc.ca
 mobile-sdk-lib-ca-1.brilliantcollector.com
 o260369.ingest.sentry.io
@@ -541,17 +539,14 @@ pub.pixels.ai
 recommendation-hybrid.wpdigital.net
 subscriptions.cbc.ca
 trinitymedia.ai
-udm.scorecardresearch.com
+scorecardresearch.com
 user.desmoinesregister.com
 vd.trinitymedia.ai
 x-default-stgec.uplynk.com
-zndhztugwqhlulqht-aexpfeedback.siteintercept.qualtrics.com
 disney.demdex.net
 disney.my.sentry.io
 sanalytics.disneyplus.com
-7ba3f64df98de730df38846b54ecfbdf7f61f80f.cws.conviva.com
 cbsinteractive.hb.omtrdc.net
-87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 events.brightline.tv
 cdn-gl.imrworldwide.com
 video-ads-module.ad-tech.nbcuni.com
