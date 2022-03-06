@@ -1,12 +1,10 @@
 spectrum.s3.amazonaws.com
-.logs.roku.com
 scribe.logs.roku.com
 benjamin.logs.roku.com
 liberty.logs.roku.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
 wwwimg.roku.com
-.ads.roku.com
 i.ads.roku.com
 identity.ads.roku.com
 samples.voice.cti.roku.com
