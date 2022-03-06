@@ -314,7 +314,6 @@ myip.dnsomatic.com
 nexstar.zeustechnology.com
 nile.works
 nypost-com.videoplayerhub.com
-ingest.sentry.io
 oc.brcclx.com
 open-api.spot.im
 openweb.jac.yahoosandbox.com
@@ -327,7 +326,6 @@ pusher.com
 quantcast.mgr.consensu.org
 ravm.tv
 recsys-api.buzzfeed.com
-reddit.app.link
 reddit.report-uri.com
 refer.discover.com
 report.dfs.glassboxdigital.io
@@ -517,7 +515,6 @@ img.tfd.com
 ssl.fastly.net
 login.cbc.ca
 mobile-sdk-lib-ca-1.brilliantcollector.com
-sentry.io
 p.cpx.to
 paywall-prod.appspot.com
 pendo.io
@@ -531,7 +528,6 @@ scorecardresearch.com
 user.desmoinesregister.com
 vd.trinitymedia.ai
 x-default-stgec.uplynk.com
-disney.my.sentry.io
 sanalytics.disneyplus.com
 cbsinteractive.hb.omtrdc.net
 events.brightline.tv
