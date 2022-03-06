@@ -1,5 +1,7 @@
 spectrum.s3.amazonaws.com
 logs.roku.com
+scribe.logs.roku.com
+benjamin.logs.roku.com
 firebase-settings.crashlytics.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
