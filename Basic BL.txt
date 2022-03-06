@@ -2,11 +2,20 @@ spectrum.s3.amazonaws.com
 logs.roku.com
 scribe.logs.roku.com
 benjamin.logs.roku.com
-firebase-settings.crashlytics.com
+liberty.logs.roku.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
+wwwimg.roku.com
+ads.roku.com
+i.ads.roku.com
+identity.ads.roku.com
+samples.voice.cti.roku.com
+customer-feedbacks.web.roku.com
+traces.sr.roku.com
+track.sr.roku.com
 cstat.apple.com
 js.hsforms.net
+firebase-settings.crashlytics.com
 improving.duckduckgo.com
 cdn.cookielaw.org
 acsbapp.com
@@ -23,12 +32,10 @@ assets.adobedtm.com
 cdn.js7k.com
 atwola.com
 urs.cnet.com
-wwwimg.roku.com
 ipv6.unagi-na.amazon.com
 unagi-na.amazon.com
 heatmap.it
 beacon.dropbox.com
-customer-feedbacks.web.roku.com
 syndication.twitter.com
 ibt-d.openx.net
 mps.nbcuni.com
@@ -102,7 +109,6 @@ device-metrics-us-2.amazon.com
 search.spotxchange.com
 demdex.net
 saa.cbsi.com
-ads.roku.com
 services.brightline.tv
 nbcstreaming.sc.omtrdc.net
 cdn.concert.io
@@ -278,7 +284,6 @@ horus.iad-03.braze.com
 hs-scripts.com
 hulkprod.anm.co.uk
 api.p001.1drv.com
-i.ads.roku.com
 ibclick.stream
 icanhazip.com
 imagesvc.meredithcorp.io
@@ -329,7 +334,6 @@ report.dfs.glassboxdigital.io
 s.gravatar.com
 s.pinimg.com
 sales.slickdeals.net
-samples.voice.cti.roku.com
 scorecardresearch.com
 sdk-api-v1.singular.net
 search-api.swiftype.com
@@ -365,7 +369,6 @@ tag.idsync.analytics.yahoo.com
 telemetrydeck.com
 teslanorth-com.disqus.com
 thehill-v4.disqus.com
-traces.sr.roku.com
 u.heatmap.it
 udc.yahoo.com
 urbanairship.com
