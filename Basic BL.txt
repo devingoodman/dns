@@ -534,3 +534,6 @@ events.brightline.tv
 cdn-gl.imrworldwide.com
 video-ads-module.ad-tech.nbcuni.com
 cookie-cdn.cookiepro.com
+geo.yahoo.com
+yahoo.uservoice.com
+www.adtech.yahooinc.com
