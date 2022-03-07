@@ -538,3 +538,5 @@ www.adtech.yahooinc.com
 px-conf.perimeterx.net
 ads.flurry.com
 mobileapi.usebutton.com
+events.emogi.com
+client-analytics.braintreegateway.com
