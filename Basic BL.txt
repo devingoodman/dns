@@ -540,3 +540,6 @@ ads.flurry.com
 mobileapi.usebutton.com
 events.emogi.com
 client-analytics.braintreegateway.com
+identity.mparticle.com
+config2.mparticle.com
+b.stats.paypal.com
