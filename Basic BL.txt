@@ -545,4 +545,6 @@ identity.mparticle.com
 config2.mparticle.com
 b.stats.paypal.com
 a-fds.youborafds01.com
+s.update.wtag.ssp.yahoo.com
 prod-m-node-1113.ssp.yahoo.com
+widget.intercom.io
