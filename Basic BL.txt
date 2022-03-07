@@ -33,6 +33,8 @@ unagi-na.amazon.com
 heatmap.it
 beacon.dropbox.com
 syndication.twitter.com
+analytics-server.gimbal.com
+sdk-configuration.gimbal.com
 ibt-d.openx.net
 mps.nbcuni.com
 nom.telemetrydeck.com
