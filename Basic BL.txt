@@ -107,6 +107,7 @@ device-metrics-us-2.amazon.com
 search.spotxchange.com
 demdex.net
 saa.cbsi.com
+s.update.wtag.ssp.yahoo.com
 services.brightline.tv
 nbcstreaming.sc.omtrdc.net
 cdn.concert.io
