@@ -6,6 +6,7 @@ samples.voice.cti.roku.com
 customer-feedbacks.web.roku.com
 cstat.apple.com
 js.hsforms.net
+cortana-gateway.amazon.com
 cdn.cookielaw.org
 mps.cnbc.com
 sdx.xfinity.com
