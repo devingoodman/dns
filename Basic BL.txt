@@ -65,6 +65,7 @@ ichnaea.netflix.com
 cloudfront-us-east-2.images.arcpublishing.com
 consent.cmp.oath.com
 consent.truste.com
+variations.brave.com
 content.discover.com
 content.discovercard.com
 content.uplynk.com
