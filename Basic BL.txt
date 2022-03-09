@@ -9,6 +9,7 @@ js.hsforms.net
 cortana-gateway.amazon.com
 cdn.cookielaw.org
 mps.cnbc.com
+adobedtm.com
 sdx.xfinity.com
 imasdk.googleapis.com
 location.bloomberg.com
