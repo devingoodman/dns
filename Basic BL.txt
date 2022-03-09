@@ -61,6 +61,7 @@ cdn.vuukle.com
 cdnen.rt.com
 cerebro.edna.yahoo.net
 check.ddos-guard.net
+ichnaea.netflix.com
 cloudfront-us-east-2.images.arcpublishing.com
 consent.cmp.oath.com
 consent.truste.com
