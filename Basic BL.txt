@@ -1,4 +1,5 @@
 spectrum.s3.amazonaws.com
+collector.github.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
 wwwimg.roku.com
