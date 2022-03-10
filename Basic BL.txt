@@ -3,13 +3,14 @@ collector.github.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
 wwwimg.roku.com
+sentry.io
 samples.voice.cti.roku.com
 customer-feedbacks.web.roku.com
 cstat.apple.com
+go.engiestorage.com
 js.hsforms.net
 cortana-gateway.amazon.com
 aax-us-iad.amazon.com
-affiliate-program.amazon.com
 advertising.amazon.com
 ipv6.unagi-na.amazon.com
 unagi-na.amazon.com
@@ -18,6 +19,7 @@ mps.cnbc.com
 ota.lokalise.co
 adobedtm.com
 sdx.xfinity.com
+cdn.iubenda.com
 imasdk.googleapis.com
 location.bloomberg.com
 chimpstatic.com
