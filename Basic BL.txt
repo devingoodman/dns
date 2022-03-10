@@ -175,6 +175,7 @@ clearbit.com
 graph.facebook.com
 1.gravatar.com
 390109.smushcdn.com
+sentry.io
 apex-wbs-prd.ucsfmedicalcenter.org
 api.dmcdn.net
 api.userway.org
