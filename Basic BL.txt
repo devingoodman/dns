@@ -8,6 +8,11 @@ customer-feedbacks.web.roku.com
 cstat.apple.com
 js.hsforms.net
 cortana-gateway.amazon.com
+aax-us-iad.amazon.com
+affiliate-program.amazon.com
+advertising.amazon.com
+ipv6.unagi-na.amazon.com
+unagi-na.amazon.com
 cdn.cookielaw.org
 mps.cnbc.com
 ota.lokalise.co
@@ -17,8 +22,6 @@ imasdk.googleapis.com
 location.bloomberg.com
 chimpstatic.com
 urs.cnet.com
-ipv6.unagi-na.amazon.com
-unagi-na.amazon.com
 beacon.dropbox.com
 syndication.twitter.com
 ibt-d.openx.net
