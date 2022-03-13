@@ -3,7 +3,6 @@ collector.github.com
 amoeba-plus.web.roku.com
 cloudservices.roku.com
 wwwimg.roku.com
-sentry.io
 samples.voice.cti.roku.com
 customer-feedbacks.web.roku.com
 cstat.apple.com
