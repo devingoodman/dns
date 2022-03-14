@@ -120,6 +120,7 @@ public.fbot.me
 pusher.com
 quantcast.mgr.consensu.org
 recsys-api.buzzfeed.com
+diagnostics.redditmedia.com
 reddit.report-uri.com
 s.gravatar.com
 s.pinimg.com
