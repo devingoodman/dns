@@ -95,7 +95,6 @@ go.trouter.skype.com
 guce.yahoo.com
 wns.windows.com
 horus.iad-03.braze.com
-api.smoot.apple.com
 hs-scripts.com
 api.p001.1drv.com
 icanhazip.com
