@@ -8,6 +8,7 @@ customer-feedbacks.web.roku.com
 cstat.apple.com
 go.engiestorage.com
 js.hsforms.net
+ws.pusherapp.com
 cortana-gateway.amazon.com
 aax-us-iad.amazon.com
 advertising.amazon.com
