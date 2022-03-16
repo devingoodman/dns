@@ -1,3 +1,4 @@
+track.opentable.com
 spectrum.s3.amazonaws.com
 collector.github.com
 amoeba-plus.web.roku.com
