@@ -1,3 +1,5 @@
+#Supplement to StevenBlack and 1hostsLite blocklists. Use together with regex file.
+
 track.opentable.com
 spectrum.s3.amazonaws.com
 collector.github.com
