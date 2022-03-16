@@ -11,6 +11,7 @@ customer-feedbacks.web.roku.com
 cstat.apple.com
 go.engiestorage.com
 js.hsforms.net
+api.altmetric.com
 ws.pusherapp.com
 cortana-gateway.amazon.com
 aax-us-iad.amazon.com
@@ -32,6 +33,7 @@ urs.cnet.com
 beacon.dropbox.com
 syndication.twitter.com
 ibt-d.openx.net
+static-cdn.spot.im
 mps.nbcuni.com
 arcmobile.arcpublishing.com
 amp.akamaized.net
