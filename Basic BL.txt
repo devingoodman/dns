@@ -140,6 +140,7 @@ secure.gravatar.com
 segment.com
 sentry.infra.alto.com
 service.idsync.analytics.yahoo.com
+commercecentral.yahoo.com
 signup.cj.com
 sdk.snapkit.com
 siteassets.parastorage.com
