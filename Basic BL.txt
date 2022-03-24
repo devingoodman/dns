@@ -129,6 +129,8 @@ public.fbot.me
 pusher.com
 quantcast.mgr.consensu.org
 recsys-api.buzzfeed.com
+e.reddit.com
+emoji.redditmedia.com
 diagnostics.redditmedia.com
 reddit.report-uri.com
 s.gravatar.com
