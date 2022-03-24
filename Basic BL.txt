@@ -112,6 +112,7 @@ iterable.com
 js.cnnx.link
 js.monitor.azure.com
 launcher.spot.im
+xp.apple.com
 lnarswc5ox6hzr-app.apple.com
 lookaside.facebook.com
 m.alto.com
