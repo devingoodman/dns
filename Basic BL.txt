@@ -92,6 +92,7 @@ d335luupugsy2.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 display.ugc.bazaarvoice.com
 duckdns.org
+improving.duckduckgo.com
 engage.wixapps.net
 esputnik.com
 fast.wistia.net
