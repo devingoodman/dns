@@ -37,8 +37,10 @@ ibt-d.openx.net
 static-cdn.spot.im
 mps.nbcuni.com
 arcmobile.arcpublishing.com
+static.newsbreak.com
 amp.akamaized.net
 ads-api.ft.com
+js.sentry-cdn.com
 api-esp.piano.io
 s.update.wtag.ssp.yahoo.com
 edgecast-vod.yahoo.net
