@@ -45,6 +45,8 @@ api-esp.piano.io
 s.update.wtag.ssp.yahoo.com
 edgecast-vod.yahoo.net
 graph.instagram.com
+chimpstatic.com
+np.commercecentral.yahoo.com
 d2c8v52ll5s99u.cloudfront.net
 group3.sites.hubspot.net
 2.gravatar.com
