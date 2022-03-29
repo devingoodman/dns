@@ -189,6 +189,7 @@ simplecast.com
 kpcorp.com
 paltabrain.com
 ipnoid.com
+trinitymedia.ai
 fpjs-pro-3-npm.stackblitz.io
 bjads.bejbej.ca
 setapp.com
