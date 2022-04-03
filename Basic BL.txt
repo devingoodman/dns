@@ -44,7 +44,6 @@ js.sentry-cdn.com
 api-esp.piano.io
 s.update.wtag.ssp.yahoo.com
 edgecast-vod.yahoo.net
-graph.instagram.com
 chimpstatic.com
 np.commercecentral.yahoo.com
 d2c8v52ll5s99u.cloudfront.net
@@ -117,8 +116,6 @@ iterable.com
 js.cnnx.link
 js.monitor.azure.com
 launcher.spot.im
-lnarswc5ox6hzr-app.apple.com
-lookaside.facebook.com
 m.alto.com
 media.whatcounts.com
 media2.fdncms.com
@@ -196,7 +193,11 @@ setapp.com
 treg.hearstnp.com
 logo.clearbit.com
 clearbit.com
+lnarswc5ox6hzr-app.apple.com
 graph.facebook.com
+lookaside.facebook.com
+gateway.facebook.com
+graph.instagram.com
 1.gravatar.com
 390109.smushcdn.com
 sentry.io
@@ -211,7 +212,6 @@ ced-ns.sascdn.com
 cloud.typography.com
 d3agakyjgjv5i8.cloudfront.net
 gannett-d.openx.net
-gateway.facebook.com
 img.tfd.com
 login.cbc.ca
 paywall-prod.appspot.com
@@ -224,5 +224,6 @@ user.desmoinesregister.com
 x-default-stgec.uplynk.com
 yahoo.uservoice.com
 www.adtech.yahooinc.com
+www.hub.fdncms.com
 prod-m-node-1113.ssp.yahoo.com
 widget.intercom.io
