@@ -121,6 +121,7 @@ media.whatcounts.com
 media2.fdncms.com
 monorail-edge.shopifysvc.com
 myip.dnsomatic.com
+mlab-oti.measurement-lab.org
 nile.works
 oc.brcclx.com
 open-api.spot.im
