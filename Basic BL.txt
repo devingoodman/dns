@@ -84,6 +84,8 @@ cloudfront-us-east-2.images.arcpublishing.com
 consent.cmp.oath.com
 consent.truste.com
 variations.brave.com
+ads-serve.brave.com
+ads-static.brave.com
 content.discover.com
 content.discovercard.com
 content.uplynk.com
@@ -181,7 +183,6 @@ www.scribd.com
 www.snapengage.com
 x.ss2.us
 yahoovod.hs.llnwd.net
-ads-serve.brave.com
 analytics.pharmacy-demo.com
 ams.cdn.arkadiumhosted.com
 simplecast.com
