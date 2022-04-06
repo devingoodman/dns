@@ -93,6 +93,8 @@ content22.citicards.com
 d2p9l91d5g68ru.cloudfront.net
 d335luupugsy2.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
+disqus.com
+disquscdn.com
 display.ugc.bazaarvoice.com
 duckdns.org
 improving.duckduckgo.com
