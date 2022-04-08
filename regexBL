@@ -16,6 +16,7 @@
 ^.*\.cdn.permutive\..*$
 ^.*\.taboola\..*$
 ^.*\.demdex\..*$
+^.*\.ampproject\..*$
 ^.*\.mobileapi.usebutton\.com$
 ^.*\.outbrain\..*$
 ^.*\.iads.apple\.com$
