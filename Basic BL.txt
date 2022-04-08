@@ -10,6 +10,7 @@ samples.voice.cti.roku.com
 customer-feedbacks.web.roku.com
 hls-beacons.xumo.com
 cstat.apple.com
+feedbackws.icloud.com
 go.engiestorage.com
 js.hsforms.net
 api.altmetric.com
@@ -202,6 +203,7 @@ lnarswc5ox6hzr-app.apple.com
 graph.facebook.com
 lookaside.facebook.com
 gateway.facebook.com
+connect.facebook.net
 graph.instagram.com
 1.gravatar.com
 390109.smushcdn.com
