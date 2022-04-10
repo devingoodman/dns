@@ -60,6 +60,7 @@ api.amazonalexa.com
 api.washingtonpost.com
 app.backinstock.org
 app.link
+platform.linkedin.com
 browser.sentry-cdn.com
 c.paypal.com
 ca-eu.cookie-script.com
