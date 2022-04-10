@@ -97,6 +97,7 @@ d335luupugsy2.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 disqus.com
 c.disquscdn.com
+abeagle-public.buzzfeed.com
 display.ugc.bazaarvoice.com
 duckdns.org
 improving.duckduckgo.com
