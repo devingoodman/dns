@@ -10,6 +10,7 @@ samples.voice.cti.roku.com
 customer-feedbacks.web.roku.com
 hls-beacons.xumo.com
 cstat.apple.com
+mask-api.icloud.com
 feedbackws.icloud.com
 go.engiestorage.com
 js.hsforms.net
