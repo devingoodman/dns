@@ -31,6 +31,7 @@ sdx.xfinity.com
 cdn.iubenda.com
 imasdk.googleapis.com
 location.bloomberg.com
+analytics.cloud.coveo.com
 chimpstatic.com
 urs.cnet.com
 beacon.dropbox.com
