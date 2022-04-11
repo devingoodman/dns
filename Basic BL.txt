@@ -170,7 +170,6 @@ static.www.turnto.com
 stats.transitapp.com
 stun.services.mozilla.com
 urbanairship.com
-v.whatsapp.net
 video-api.yql.yahoo.com
 vidtech.cbsinteractive.com
 vop-yahoo.akamaized.net
@@ -205,8 +204,6 @@ logo.clearbit.com
 clearbit.com
 lnarswc5ox6hzr-app.apple.com
 graph.facebook.com
-lookaside.facebook.com
-gateway.facebook.com
 connect.facebook.net
 graph.instagram.com
 1.gravatar.com
