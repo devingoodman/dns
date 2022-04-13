@@ -67,7 +67,10 @@ c.paypal.com
 ca-eu.cookie-script.com
 campaign.fbot.me
 cbsi-d.openx.net
+sdk.privacy-center.org
+api.privacy-center.org
 ccpa-wrapper.privacymanager.io
+mailmunch.co
 cdn-images.mailchimp.com
 cdn-loyalty.yotpo.com
 cdn-media.brightline.tv
