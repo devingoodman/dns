@@ -116,6 +116,7 @@ wns.windows.com
 horus.iad-03.braze.com
 hs-scripts.com
 api.p001.1drv.com
+api-cdn.embed.ly
 icanhazip.com
 imagesvc.meredithcorp.io
 in.appcenter.ms
