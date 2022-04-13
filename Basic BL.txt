@@ -40,9 +40,6 @@ static.newsbreak.com
 amp.akamaized.net
 ads-api.ft.com
 js.sentry-cdn.com
-s.update.wtag.ssp.yahoo.com
-edgecast-vod.yahoo.net
-np.commercecentral.yahoo.com
 d2c8v52ll5s99u.cloudfront.net
 group3.sites.hubspot.net
 2.gravatar.com
@@ -77,7 +74,6 @@ cdn.privacy-mgmt.com
 cdn.userway.org
 cdn.vuukle.com
 cdnen.rt.com
-cerebro.edna.yahoo.net
 check.ddos-guard.net
 ichnaea.netflix.com
 consent.cmp.oath.com
@@ -106,7 +102,6 @@ geni.us
 geo2.adobe.com
 go.theregister.com
 go.trouter.skype.com
-guce.yahoo.com
 wns.windows.com
 horus.iad-03.braze.com
 api.p001.1drv.com
@@ -143,8 +138,6 @@ search-api.swiftype.com
 secure.gravatar.com
 segment.com
 sentry.infra.alto.com
-service.idsync.analytics.yahoo.com
-commercecentral.yahoo.com
 signup.cj.com
 sdk.snapkit.com
 siteassets.parastorage.com
@@ -160,7 +153,6 @@ static.www.turnto.com
 stats.transitapp.com
 stun.services.mozilla.com
 urbanairship.com
-video-api.yql.yahoo.com
 vidtech.cbsinteractive.com
 vop-yahoo.akamaized.net
 vop-yahoo.secure.footprint.net
@@ -204,7 +196,6 @@ apex-wbs-prd.ucsfmedicalcenter.org
 api.dmcdn.net
 api.userway.org
 api.vanilla.futurecdn.net
-c2shb.pubgw.yahoo.com
 cdn.coverstand.com
 cdn.wallkit.net
 ced-ns.sascdn.com
@@ -223,5 +214,4 @@ x-default-stgec.uplynk.com
 yahoo.uservoice.com
 www.adtech.yahooinc.com
 www.hub.fdncms.com
-prod-m-node-1113.ssp.yahoo.com
 widget.intercom.io
