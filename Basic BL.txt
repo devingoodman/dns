@@ -36,7 +36,6 @@ beacon.dropbox.com
 syndication.twitter.com
 static-cdn.spot.im
 mps.nbcuni.com
-arcmobile.arcpublishing.com
 static.newsbreak.com
 amp.akamaized.net
 ads-api.ft.com
@@ -51,7 +50,6 @@ netdna-ssl.com
 a.nytimes.com
 akluum.com
 api-cf.affirm.com
-api-reuters-reuters-prod.cdn.arcpublishing.com
 api.amazonalexa.com
 api.washingtonpost.com
 app.backinstock.org
@@ -82,7 +80,6 @@ cdnen.rt.com
 cerebro.edna.yahoo.net
 check.ddos-guard.net
 ichnaea.netflix.com
-cloudfront-us-east-2.images.arcpublishing.com
 consent.cmp.oath.com
 consent.truste.com
 variations.brave.com
@@ -107,7 +104,6 @@ forum.theyachtguy.org
 gdpr-wrapper.privacymanager.io
 geni.us
 geo2.adobe.com
-cdn.arcpublishing.com
 go.theregister.com
 go.trouter.skype.com
 guce.yahoo.com
