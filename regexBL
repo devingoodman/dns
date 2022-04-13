@@ -3,6 +3,7 @@
 ^.*\.disqus\.com$
 ^.*\.openx.net$
 ^.*\.omtrdc\..*$
+^.*\.yahoo\..*$
 ^.*\.segment\..*$
 ^.*\.smoot.apple\.com$
 ^.*\.arcpublishing\.com$
@@ -19,6 +20,7 @@
 ^.*\.ampproject\..*$
 ^.*\.mobileapi.usebutton\.com$
 ^.*\.outbrain\..*$
+^.*\.facebook\..*$
 ^.*\.iads.apple\.com$
 ^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]$
 ^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]$
