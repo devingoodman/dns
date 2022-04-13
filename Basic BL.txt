@@ -100,7 +100,6 @@ c.disquscdn.com
 abeagle-public.buzzfeed.com
 display.ugc.bazaarvoice.com
 duckdns.org
-improving.duckduckgo.com
 engage.wixapps.net
 esputnik.com
 fast.wistia.net
@@ -114,7 +113,6 @@ go.trouter.skype.com
 guce.yahoo.com
 wns.windows.com
 horus.iad-03.braze.com
-hs-scripts.com
 api.p001.1drv.com
 api-cdn.embed.ly
 icanhazip.com
@@ -130,7 +128,6 @@ media2.fdncms.com
 monorail-edge.shopifysvc.com
 myip.dnsomatic.com
 mlab-oti.measurement-lab.org
-nile.works
 oc.brcclx.com
 open-api.spot.im
 parking.bodiscdn.com
@@ -138,7 +135,6 @@ plausible.io
 portal.fb.com
 public.fbot.me
 pusher.com
-quantcast.mgr.consensu.org
 recsys-api.buzzfeed.com
 e.reddit.com
 emoji.redditmedia.com
@@ -148,7 +144,6 @@ s.gravatar.com
 s.pinimg.com
 sales.slickdeals.net
 search-api.swiftype.com
-seattle-times-d.openx.net
 secure.gravatar.com
 segment.com
 sentry.infra.alto.com
