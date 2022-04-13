@@ -214,7 +214,6 @@ cdn.wallkit.net
 ced-ns.sascdn.com
 cloud.typography.com
 d3agakyjgjv5i8.cloudfront.net
-gannett-d.openx.net
 img.tfd.com
 login.cbc.ca
 paywall-prod.appspot.com
