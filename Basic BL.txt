@@ -204,6 +204,7 @@ logo.clearbit.com
 clearbit.com
 lnarswc5ox6hzr-app.apple.com
 graph.facebook.com
+staticxx.facebook.com
 connect.facebook.net
 graph.instagram.com
 1.gravatar.com
