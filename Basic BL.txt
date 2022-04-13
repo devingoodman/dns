@@ -22,7 +22,6 @@ advertising.amazon.com
 ipv6.unagi-na.amazon.com
 unagi-na.amazon.com
 unagi.amazon.com
-fls-na.amazon.com
 cdn.cookielaw.org
 mps.cnbc.com
 ota.lokalise.co
