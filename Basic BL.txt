@@ -34,7 +34,6 @@ chimpstatic.com
 urs.cnet.com
 beacon.dropbox.com
 syndication.twitter.com
-ibt-d.openx.net
 static-cdn.spot.im
 mps.nbcuni.com
 arcmobile.arcpublishing.com
@@ -42,10 +41,8 @@ static.newsbreak.com
 amp.akamaized.net
 ads-api.ft.com
 js.sentry-cdn.com
-api-esp.piano.io
 s.update.wtag.ssp.yahoo.com
 edgecast-vod.yahoo.net
-chimpstatic.com
 np.commercecentral.yahoo.com
 d2c8v52ll5s99u.cloudfront.net
 group3.sites.hubspot.net
@@ -64,13 +61,13 @@ browser.sentry-cdn.com
 c.paypal.com
 ca-eu.cookie-script.com
 campaign.fbot.me
-cbsi-d.openx.net
 sdk.privacy-center.org
 api.privacy-center.org
 ccpa-wrapper.privacymanager.io
 mailmunch.co
-cdn-images.mailchimp.com
+staticw2.yotpo.com
 cdn-loyalty.yotpo.com
+cdn-images.mailchimp.com
 cdn-media.brightline.tv
 cdn.cityspark.com
 cdn.embed.ly
