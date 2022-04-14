@@ -29,6 +29,7 @@ adobedtm.com
 sdx.xfinity.com
 cdn.iubenda.com
 imasdk.googleapis.com
+csp.withgoogle.com
 analytics.cloud.coveo.com
 chimpstatic.com
 urs.cnet.com
