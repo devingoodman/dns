@@ -68,6 +68,7 @@ cdn-media.brightline.tv
 cdn.cityspark.com
 cdn.embed.ly
 cdn.fbsbx.com
+cdn.getcarro.com
 cdn.livechatinc.com
 cdn.opecloud.com
 cdn.pendo.io
