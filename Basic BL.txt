@@ -55,6 +55,7 @@ app.link
 platform.linkedin.com
 browser.sentry-cdn.com
 c.paypal.com
+t.paypal.com
 ca-eu.cookie-script.com
 campaign.fbot.me
 sdk.privacy-center.org
