@@ -75,6 +75,7 @@ cdn.userway.org
 cdn.vuukle.com
 cdnen.rt.com
 check.ddos-guard.net
+connect.livechatinc.com
 ichnaea.netflix.com
 consent.cmp.oath.com
 consent.truste.com
