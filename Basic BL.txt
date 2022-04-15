@@ -42,7 +42,6 @@ ads-api.ft.com
 js.sentry-cdn.com
 d2c8v52ll5s99u.cloudfront.net
 group3.sites.hubspot.net
-2.gravatar.com
 netdna-ssl.com
 a.nytimes.com
 akluum.com
@@ -51,6 +50,7 @@ api.amazonalexa.com
 api.washingtonpost.com
 app.backinstock.org
 app.link
+apps.elfsight.com
 platform.linkedin.com
 browser.sentry-cdn.com
 c.paypal.com
@@ -134,11 +134,9 @@ e.reddit.com
 emoji.redditmedia.com
 diagnostics.redditmedia.com
 reddit.report-uri.com
-s.gravatar.com
 s.pinimg.com
 sales.slickdeals.net
 search-api.swiftype.com
-secure.gravatar.com
 segment.com
 sentry.infra.alto.com
 signup.cj.com
@@ -167,7 +165,6 @@ www.alexa.com
 www.boxcast.com
 www.codeblackbelt.com
 www.google.ru
-www.gravatar.com
 www.networkadvertising.org
 www.queryly.com
 www.scribd.com
@@ -188,11 +185,7 @@ treg.hearstnp.com
 logo.clearbit.com
 clearbit.com
 lnarswc5ox6hzr-app.apple.com
-graph.facebook.com
-staticxx.facebook.com
-connect.facebook.net
 graph.instagram.com
-1.gravatar.com
 390109.smushcdn.com
 sentry.io
 apex-wbs-prd.ucsfmedicalcenter.org
