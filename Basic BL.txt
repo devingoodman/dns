@@ -120,6 +120,7 @@ mlab-oti.measurement-lab.org
 imagesvc.meredithcorp.io
 wcpstatic.microsoft.com
 stun.services.mozilla.com
+myfinance.com
 mps.nbcuni.com
 netdna-ssl.com
 ichnaea.netflix.com
