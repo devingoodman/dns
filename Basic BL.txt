@@ -59,6 +59,7 @@ mps.cnbc.com
 urs.cnet.com
 js.cnnx.link
 www.codeblackbelt.com
+events-service.coinbase.com
 ca-eu.cookie-script.com
 cdn.cookielaw.org
 analytics.cloud.coveo.com
