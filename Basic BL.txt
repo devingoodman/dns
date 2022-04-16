@@ -10,9 +10,9 @@ www.alexa.com
 api.altmetric.com
 m.alto.com
 sentry.infra.alto.com
-cortana-gateway.amazon.com
 aax-us-iad.amazon.com
 advertising.amazon.com
+cortana-gateway.amazon.com
 unagi-na.amazon.com
 unagi.amazon.com
 ipv6.unagi-na.amazon.com
@@ -32,9 +32,9 @@ bjads.bejbej.ca
 sourcepointcmp.bloomberg.com
 parking.bodiscdn.com
 www.boxcast.com
-variations.brave.com
 ads-serve.brave.com
 ads-static.brave.com
+variations.brave.com
 horus.iad-03.braze.com
 oc.brcclx.com
 players.brightcove.net
@@ -48,8 +48,8 @@ chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
 signup.cj.com
-logo.clearbit.com
 clearbit.com
+logo.clearbit.com
 d2c8v52ll5s99u.cloudfront.net
 d2p9l91d5g68ru.cloudfront.net
 d335luupugsy2.cloudfront.net
@@ -172,9 +172,9 @@ sales.slickdeals.net
 390109.smushcdn.com
 www.snapengage.com
 sdk.snapkit.com
-static-cdn.spot.im
 launcher.spot.im
 open-api.spot.im
+static-cdn.spot.im
 x.ss2.us
 fpjs-pro-3-npm.stackblitz.io
 search-api.swiftype.com
@@ -192,8 +192,8 @@ content.uplynk.com
 x-default-stgec.uplynk.com
 urbanairship.com
 yahoo.uservoice.com
-cdn.userway.org
 api.userway.org
+cdn.userway.org
 cdn.vuukle.com
 cdn.wallkit.net
 api.washingtonpost.com
