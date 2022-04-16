@@ -7,7 +7,7 @@ amp.akamaized.net
 vop-yahoo.akamaized.net
 akluum.com
 www.alexa.com
-api.altmetric.com
+altmetric.com
 m.alto.com
 sentry.infra.alto.com
 aax-us-iad.amazon.com
@@ -66,6 +66,7 @@ analytics.cloud.coveo.com
 cdn.coverstand.com
 check.ddos-guard.net
 user.desmoinesregister.com
+metrics-api.dimensions.ai
 content.discover.com
 content.discovercard.com
 disqus.com
