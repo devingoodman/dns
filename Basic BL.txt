@@ -98,6 +98,7 @@ socialize.us1.gigya.com
 collector.github.com
 www.google.ru
 imasdk.googleapis.com
+growkudos.com
 player.h-cdn.com
 treg.hearstnp.com
 js.hsforms.net
