@@ -101,6 +101,7 @@ growkudos.com
 player.h-cdn.com
 treg.hearstnp.com
 hsforms.net
+hubspot.com
 icanhazip.com
 feedbackws.icloud.com
 graph.instagram.com
