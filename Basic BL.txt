@@ -44,6 +44,7 @@ recsys-api.buzzfeed.com
 login.cbc.ca
 subscriptions.cbc.ca
 vidtech.cbsinteractive.com
+chatid.com
 chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
@@ -180,6 +181,8 @@ spot.im
 ss2.us
 fpjs-pro-3-npm.stackblitz.io
 search-api.swiftype.com
+sapphire-api.target.com
+taglocker.target.com
 img.tfd.com
 go.theregister.com
 forum.theyachtguy.org
@@ -198,6 +201,7 @@ userway.org
 cdn.vuukle.com
 cdn.wallkit.net
 api.washingtonpost.com
+webcollage.net
 media.whatcounts.com
 wns.windows.com
 fast.wistia.net
