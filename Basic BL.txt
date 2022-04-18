@@ -1,4 +1,4 @@
-api.p001.1drv.com
+1drv.com
 static.ada.support
 geo2.adobe.com
 adobedtm.com
