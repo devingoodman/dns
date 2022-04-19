@@ -130,6 +130,7 @@ netdna-ssl.com
 ichnaea.netflix.com
 www.networkadvertising.org
 static.newsbreak.com
+nile.works
 a.nytimes.com
 consent.cmp.oath.com
 static.olark.com
