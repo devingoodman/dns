@@ -3,6 +3,7 @@ static.ada.support
 geo2.adobe.com
 adobedtm.com
 api-cf.affirm.com
+time.akamai.com
 amp.akamaized.net
 vop-yahoo.akamaized.net
 akluum.com
@@ -29,6 +30,7 @@ js.monitor.azure.com
 app.backinstock.org
 display.ugc.bazaarvoice.com
 bjads.bejbej.ca
+cdn.bitmovin.com
 sourcepointcmp.bloomberg.com
 parking.bodiscdn.com
 www.boxcast.com
@@ -65,6 +67,7 @@ convertkit.com
 ca-eu.cookie-script.com
 cdn.cookielaw.org
 analytics.cloud.coveo.com
+cloudfunctions.net
 cdn.coverstand.com
 check.ddos-guard.net
 user.desmoinesregister.com
@@ -120,6 +123,7 @@ platform.linkedin.com
 livechatinc.com
 yahoovod.hs.llnwd.net
 ota.lokalise.co
+lura.live
 static-cdn.mackeeper.com
 cdn-images.mailchimp.com
 mailmunch.co
@@ -129,6 +133,7 @@ wcpstatic.microsoft.com
 stun.services.mozilla.com
 myfinance.com
 mps.nbcuni.com
+msecnd.net
 netdna-ssl.com
 ichnaea.netflix.com
 www.networkadvertising.org
@@ -190,6 +195,7 @@ systeme.io
 sapphire-api.target.com
 taglocker.target.com
 img.tfd.com
+theoplayer.com
 go.theregister.com
 forum.theyachtguy.org
 stats.transitapp.com
@@ -202,6 +208,7 @@ apex-wbs-prd.ucsfmedicalcenter.org
 content.uplynk.com
 x-default-stgec.uplynk.com
 urbanairship.com
+usablenet.com
 uservoice.com
 userway.org
 cdn.vuukle.com
