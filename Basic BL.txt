@@ -210,11 +210,11 @@ api.washingtonpost.com
 webcollage.net
 media.whatcounts.com
 wns.windows.com
-optanon.blob.core.windows.net
+blob.core.windows.net
 fast.wistia.net
 csp.withgoogle.com
 engage.wixapps.net
-recommendation-hybrid.wpdigital.net
+wpdigital.net
 sdx.xfinity.com
 hls-beacons.xumo.com
 adtech.yahooinc.com
