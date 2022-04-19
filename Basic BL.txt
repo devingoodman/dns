@@ -96,6 +96,7 @@ www.hub.fdncms.com
 vop-yahoo.secure.footprint.net
 ads-api.ft.com
 spoor-api.ft.com
+search-api.fie.future.net.uk
 api.vanilla.futurecdn.net
 geni.us
 cdn.getcarro.com
