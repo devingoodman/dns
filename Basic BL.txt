@@ -110,6 +110,7 @@ widget.intercom.io
 ipnoid.com
 iterable.com
 iubenda.com
+jwplayer.com
 juicer.io
 kpcorp.com
 platform.linkedin.com
@@ -204,6 +205,7 @@ api.washingtonpost.com
 webcollage.net
 media.whatcounts.com
 wns.windows.com
+optanon.blob.core.windows.net
 fast.wistia.net
 csp.withgoogle.com
 engage.wixapps.net
