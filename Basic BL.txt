@@ -49,6 +49,7 @@ chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
 signup.cj.com
+ck.page
 clearbit.com
 d2c8v52ll5s99u.cloudfront.net
 d2p9l91d5g68ru.cloudfront.net
@@ -60,6 +61,7 @@ urs.cnet.com
 js.cnnx.link
 www.codeblackbelt.com
 events-service.coinbase.com
+convertkit.com
 ca-eu.cookie-script.com
 cdn.cookielaw.org
 analytics.cloud.coveo.com
@@ -72,6 +74,7 @@ content.discover.com
 content.discovercard.com
 disqus.com
 disquscdn.com
+images.dmca.com
 api.dmcdn.net
 myip.dnsomatic.com
 beacon.dropbox.com
@@ -183,6 +186,7 @@ spot.im
 ss2.us
 fpjs-pro-3-npm.stackblitz.io
 search-api.swiftype.com
+systeme.io
 sapphire-api.target.com
 taglocker.target.com
 img.tfd.com
