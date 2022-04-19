@@ -114,6 +114,7 @@ icanhazip.com
 feedbackws.icloud.com
 graph.instagram.com
 widget.intercom.io
+ipapi.co
 ipnoid.com
 iterable.com
 iubenda.com
@@ -183,6 +184,7 @@ browser.sentry-cdn.com
 setapp.com
 monorail-edge.shopifysvc.com
 simplecast.com
+skimlinks.com
 go.trouter.skype.com
 sales.slickdeals.net
 390109.smushcdn.com
