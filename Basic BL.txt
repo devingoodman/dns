@@ -159,5 +159,6 @@ media.whatcounts.com
 wns.windows.com
 fast.wistia.net
 csp.withgoogle.com
+adtech.yahooinc.com
 yotpo.com
 zopim.com
