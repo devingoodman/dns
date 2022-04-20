@@ -69,6 +69,7 @@ cdn.getcarro.com
 socialize.us1.gigya.com
 collector.github.com
 imasdk.googleapis.com
+gravatar.com
 growkudos.com
 treg.hearstnp.com
 hsforms.net
