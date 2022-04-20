@@ -72,6 +72,7 @@ imasdk.googleapis.com
 gravatar.com
 growkudos.com
 treg.hearstnp.com
+hot-pharm.com
 hsforms.net
 hubspot.com
 icanhazip.com
