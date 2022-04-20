@@ -10,8 +10,7 @@ m.alto.com
 sentry.infra.alto.com
 advertising.amazon.com
 cortana-gateway.amazon.com
-ecx.images-amazon.com
-api.amazonalexa.com
+amazonalexa.com
 spectrum.s3.amazonaws.com
 wp-stat.s3.amazonaws.com
 app.link
@@ -79,6 +78,7 @@ hsforms.net
 hubspot.com
 icanhazip.com
 feedbackws.icloud.com
+ecx.images-amazon.com
 graph.instagram.com
 widget.intercom.io
 ipnoid.com
