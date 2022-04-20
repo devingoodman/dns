@@ -14,6 +14,7 @@ sentry.infra.alto.com
 aax-us-iad.amazon.com
 advertising.amazon.com
 cortana-gateway.amazon.com
+ecx.images-amazon.com
 unagi-na.amazon.com
 unagi.amazon.com
 ipv6.unagi-na.amazon.com
@@ -46,7 +47,6 @@ recsys-api.buzzfeed.com
 login.cbc.ca
 subscriptions.cbc.ca
 vidtech.cbsinteractive.com
-chatid.com
 chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
@@ -82,7 +82,6 @@ api.dmcdn.net
 myip.dnsomatic.com
 beacon.dropbox.com
 duckdns.org
-apps.elfsight.com
 embed.ly
 go.engiestorage.com
 esputnik.com
@@ -96,7 +95,6 @@ www.hub.fdncms.com
 vop-yahoo.secure.footprint.net
 ads-api.ft.com
 spoor-api.ft.com
-future.net.uk
 futurecdn.net
 geni.us
 cdn.getcarro.com
@@ -114,12 +112,10 @@ icanhazip.com
 feedbackws.icloud.com
 graph.instagram.com
 widget.intercom.io
-ipapi.co
 ipnoid.com
 iterable.com
 iubenda.com
 jwplayer.com
-juicer.io
 kpcorp.com
 platform.linkedin.com
 livechatinc.com
@@ -184,7 +180,6 @@ browser.sentry-cdn.com
 setapp.com
 monorail-edge.shopifysvc.com
 simplecast.com
-skimlinks.com
 go.trouter.skype.com
 sales.slickdeals.net
 390109.smushcdn.com
@@ -195,8 +190,6 @@ ss2.us
 fpjs-pro-3-npm.stackblitz.io
 search-api.swiftype.com
 systeme.io
-sapphire-api.target.com
-taglocker.target.com
 img.tfd.com
 theoplayer.com
 go.theregister.com
@@ -217,7 +210,6 @@ userway.org
 cdn.vuukle.com
 cdn.wallkit.net
 api.washingtonpost.com
-webcollage.net
 media.whatcounts.com
 wns.windows.com
 blob.core.windows.net
