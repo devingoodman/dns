@@ -79,7 +79,7 @@ graph.instagram.com
 widget.intercom.io
 ipnoid.com
 iterable.com
-juicer.io
+assets.juicer.io
 jwplayer.com
 kpcorp.com
 platform.linkedin.com
