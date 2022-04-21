@@ -124,6 +124,7 @@ cdnen.rt.com
 www.scribd.com
 setapp.com
 monorail-edge.shopifysvc.com
+shortpixel.ai
 simplecast.com
 go.trouter.skype.com
 sales.slickdeals.net
