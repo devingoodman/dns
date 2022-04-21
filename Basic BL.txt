@@ -111,6 +111,7 @@ c.paypal.com
 analytics.pharmacy-demo.com
 s.pinimg.com
 pixels.ai
+cdn.pricespider.com
 cdn.privacy-mgmt.com
 ccpa-wrapper.privacymanager.io
 gdpr-wrapper.privacymanager.io
@@ -132,6 +133,7 @@ sales.slickdeals.net
 www.snapengage.com
 spot.im
 fpjs-pro-3-npm.stackblitz.io
+surveygizmo.com
 search-api.swiftype.com
 systeme.io
 img.tfd.com
