@@ -73,6 +73,7 @@ collector.github.com
 imasdk.googleapis.com
 gravatar.com
 growkudos.com
+inline.healthline.com
 treg.hearstnp.com
 hot-pharm.com
 hsforms.net
