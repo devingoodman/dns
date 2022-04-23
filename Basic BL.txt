@@ -135,6 +135,7 @@ spot.im
 fpjs-pro-3-npm.stackblitz.io
 surveygizmo.com
 search-api.swiftype.com
+symcd.com
 systeme.io
 img.tfd.com
 theoplayer.com
