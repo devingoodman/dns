@@ -35,7 +35,6 @@ chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
 d1g1f25tn8m2e6.cloudfront.net
-d2c8v52ll5s99u.cloudfront.net
 d2e14181vv808q.cloudfront.net
 d335luupugsy2.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
@@ -82,8 +81,6 @@ icanhazip.com
 ecx.images-amazon.com
 graph.instagram.com
 widget.intercom.io
-ipnoid.com
-iterable.com
 assets.juicer.io
 jwplayer.com
 kpcorp.com
