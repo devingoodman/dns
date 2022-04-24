@@ -15,6 +15,7 @@ spectrum.s3.amazonaws.com
 wp-stat.s3.amazonaws.com
 app.link
 in.appcenter.ms
+amp-api-edge.apps.apple.com
 lnarswc5ox6hzr-app.apple.com
 cdn.arkadiumhosted.com
 display.ugc.bazaarvoice.com
