@@ -45,6 +45,7 @@ convertkit.com
 ca-eu.cookie-script.com
 cdn.cookielaw.org
 cloudfunctions.net
+coveo.com
 cdn.coverstand.com
 check.ddos-guard.net
 badge.dimensions.ai
