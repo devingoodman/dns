@@ -15,7 +15,6 @@ spectrum.s3.amazonaws.com
 wp-stat.s3.amazonaws.com
 app.link
 in.appcenter.ms
-amp-api-edge.apps.apple.com
 lnarswc5ox6hzr-app.apple.com
 cdn.arkadiumhosted.com
 display.ugc.bazaarvoice.com
@@ -128,6 +127,7 @@ reddit.report-uri.com
 cdnen.rt.com
 www.scribd.com
 setapp.com
+seogears.com
 monorail-edge.shopifysvc.com
 shortpixel.ai
 simplecast.com
