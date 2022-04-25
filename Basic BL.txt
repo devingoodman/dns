@@ -70,7 +70,9 @@ geni.us
 cdn.getcarro.com
 socialize.us1.gigya.com
 collector.github.com
+translate.google.com
 imasdk.googleapis.com
+translate.googleapis.com
 gravatar.com
 growkudos.com
 inline.healthline.com
