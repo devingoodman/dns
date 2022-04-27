@@ -17,7 +17,7 @@ app.link
 in.appcenter.ms
 lnarswc5ox6hzr-app.apple.com
 cdn.arkadiumhosted.com
-art19.com
+telemetry.art19.com
 display.ugc.bazaarvoice.com
 bjads.bejbej.ca
 cdn.bitmovin.com
