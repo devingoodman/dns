@@ -70,6 +70,7 @@ geni.us
 cdn.getcarro.com
 socialize.us1.gigya.com
 collector.github.com
+apis.google.com
 translate.google.com
 imasdk.googleapis.com
 translate.googleapis.com
@@ -132,6 +133,7 @@ seogears.com
 monorail-edge.shopifysvc.com
 shortpixel.ai
 simplecast.com
+assets.sitescdn.net
 go.trouter.skype.com
 sales.slickdeals.net
 390109.smushcdn.com
