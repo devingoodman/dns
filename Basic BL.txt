@@ -96,6 +96,7 @@ static-cdn.mackeeper.com
 cdn-images.mailchimp.com
 mailmunch.co
 mlab-oti.measurement-lab.org
+megaphone.fm
 imagesvc.meredithcorp.io
 wcpstatic.microsoft.com
 stun.services.mozilla.com
