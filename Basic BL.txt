@@ -139,6 +139,7 @@ sales.slickdeals.net
 www.snapengage.com
 spot.im
 fpjs-pro-3-npm.stackblitz.io
+socket.streamable.com
 surveygizmo.com
 search-api.swiftype.com
 symcd.com
