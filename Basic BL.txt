@@ -28,6 +28,7 @@ ads-static.brave.com
 variations.brave.com
 oc.brcclx.com
 players.brightcove.net
+content.castlighthealth.com
 login.cbc.ca
 subscriptions.cbc.ca
 vidtech.cbsinteractive.com
@@ -90,6 +91,7 @@ jwplayer.com
 kpcorp.com
 platform.linkedin.com
 livechatinc.com
+share.livongo.com
 yahoovod.hs.llnwd.net
 ota.lokalise.co
 lura.live
