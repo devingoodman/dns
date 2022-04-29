@@ -130,6 +130,7 @@ diagnostics.redditmedia.com
 reddit.report-uri.com
 cdnen.rt.com
 www.scribd.com
+searchanise.com
 setapp.com
 seogears.com
 monorail-edge.shopifysvc.com
