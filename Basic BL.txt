@@ -10,9 +10,14 @@ m.alto.com
 sentry.infra.alto.com
 advertising.amazon.com
 cortana-gateway.amazon.com
+amazonaax.com
 amazonalexa.com
+affiliationjs.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
 spectrum.s3.amazonaws.com
 wp-stat.s3.amazonaws.com
+amazonclix.com
+api-hotjar.com
 app.link
 in.appcenter.ms
 lnarswc5ox6hzr-app.apple.com
@@ -80,6 +85,7 @@ growkudos.com
 inline.healthline.com
 treg.hearstnp.com
 hot-pharm.com
+hotjar-analytics.com
 hsforms.net
 hubspot.com
 icanhazip.com
@@ -116,7 +122,8 @@ paltabrain.com
 siteassets.parastorage.com
 c.paypal.com
 analytics.pharmacy-demo.com
-s.pinimg.com
+pinimg.com
+pinterest.com
 pixels.ai
 pricespider.com
 cdn.privacy-mgmt.com
@@ -125,6 +132,7 @@ gdpr-wrapper.privacymanager.io
 pusher.com
 ws.pusherapp.com
 www.queryly.com
+d.reddit.com
 emoji.redditmedia.com
 diagnostics.redditmedia.com
 reddit.report-uri.com
