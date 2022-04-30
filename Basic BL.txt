@@ -122,8 +122,6 @@ paltabrain.com
 siteassets.parastorage.com
 c.paypal.com
 analytics.pharmacy-demo.com
-pinimg.com
-pinterest.com
 pixels.ai
 pricespider.com
 cdn.privacy-mgmt.com
