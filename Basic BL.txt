@@ -95,7 +95,6 @@ ecx.images-amazon.com
 graph.instagram.com
 widget.intercom.io
 assets.juicer.io
-click.justwatch.com
 jwplayer.com
 kpcorp.com
 platform.linkedin.com
