@@ -22,7 +22,7 @@ app.link
 in.appcenter.ms
 lnarswc5ox6hzr-app.apple.com
 cdn.arkadiumhosted.com
-display.ugc.bazaarvoice.com
+ugc.bazaarvoice.com
 bjads.bejbej.ca
 cdn.bitmovin.com
 sourcepointcmp.bloomberg.com
