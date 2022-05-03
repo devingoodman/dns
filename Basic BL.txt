@@ -109,7 +109,6 @@ mlab-oti.measurement-lab.org
 megaphone.fm
 imagesvc.meredithcorp.io
 wcpstatic.microsoft.com
-mktoweb.com
 stun.services.mozilla.com
 myfinance.com
 netdna-ssl.com
@@ -118,7 +117,6 @@ static.newsbreak.com
 a.nytimes.com
 consent.cmp.oath.com
 static.olark.com
-cdn.opecloud.com
 track.opentable.com
 paltabrain.com
 siteassets.parastorage.com
