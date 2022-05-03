@@ -56,7 +56,6 @@ cdn.coverstand.com
 check.ddos-guard.net
 anchor.digitalocean.com
 badge.dimensions.ai
-metrics-api.dimensions.ai
 content.discover.com
 content.discovercard.com
 disqus.com
@@ -108,7 +107,6 @@ mailmunch.co
 mlab-oti.measurement-lab.org
 megaphone.fm
 imagesvc.meredithcorp.io
-wcpstatic.microsoft.com
 stun.services.mozilla.com
 myfinance.com
 netdna-ssl.com
@@ -172,7 +170,6 @@ viafoura.co
 cdn.wallkit.net
 api.washingtonpost.com
 media.whatcounts.com
-wns.windows.com
 fast.wistia.net
 csp.withgoogle.com
 adtech.yahooinc.com
