@@ -120,6 +120,7 @@ siteassets.parastorage.com
 c.paypal.com
 analytics.pharmacy-demo.com
 pixels.ai
+podtrac.com
 pricespider.com
 cdn.privacy-mgmt.com
 ccpa-wrapper.privacymanager.io
