@@ -20,6 +20,7 @@ amazonclix.com
 api-hotjar.com
 app.link
 in.appcenter.ms
+stats.gc.apple.com
 lnarswc5ox6hzr-app.apple.com
 cdn.arkadiumhosted.com
 bazaarvoice.com
@@ -68,6 +69,7 @@ duckdns.org
 embed.ly
 go.engiestorage.com
 esputnik.com
+ezoic.com
 cdn.fbsbx.com
 fdncms.com
 vop-yahoo.secure.footprint.net
@@ -91,6 +93,7 @@ icanhazip.com
 ecx.images-amazon.com
 graph.instagram.com
 widget.intercom.io
+ip-tracker.org
 assets.juicer.io
 jwplayer.com
 kpcorp.com
@@ -153,6 +156,7 @@ surveygizmo.com
 search-api.swiftype.com
 symcd.com
 systeme.io
+goto.target.com
 img.tfd.com
 theoplayer.com
 go.theregister.com
