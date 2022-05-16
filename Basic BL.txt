@@ -26,6 +26,7 @@ cdn.arkadiumhosted.com
 bazaarvoice.com
 bjads.bejbej.ca
 bitmovin.com
+info.blancco.com
 sourcepointcmp.bloomberg.com
 parking.bodiscdn.com
 boxcast.com
