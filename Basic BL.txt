@@ -97,7 +97,6 @@ hotjar-analytics.com
 hsforms.net
 hubspot.com
 icanhazip.com
-ecx.images-amazon.com
 graph.instagram.com
 widget.intercom.io
 ip-tracker.org
