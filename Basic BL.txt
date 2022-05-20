@@ -79,6 +79,7 @@ vop-yahoo.secure.footprint.net
 futurecdn.net
 geni.us
 cdn.getcarro.com
+socialize.us1.gigya.com
 collector.github.com
 firebase.google.com
 translate.google.com
@@ -164,6 +165,7 @@ symcd.com
 systeme.io
 goto.target.com
 img.tfd.com
+theapicompany.com
 theoplayer.com
 go.theregister.com
 forum.theyachtguy.org
