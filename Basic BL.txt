@@ -114,6 +114,7 @@ yahoovod.hs.llnwd.net
 ota.lokalise.co
 lura.live
 static-cdn.mackeeper.com
+analytics.madgex.com
 cdn-images.mailchimp.com
 mailmunch.co
 mlab-oti.measurement-lab.org
@@ -166,6 +167,7 @@ sentry-api.smartpatient.eu
 snapengage.com
 spot.im
 fpjs-pro-3-npm.stackblitz.io
+analytics.stacker.com
 socket.streamable.com
 surveygizmo.com
 search-api.swiftype.com
