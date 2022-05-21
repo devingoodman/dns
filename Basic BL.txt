@@ -134,6 +134,7 @@ c.paypal.com
 analytics.pharmacy-demo.com
 pixels.ai
 podtrac.com
+ampmetrics.politico.com
 pricespider.com
 cdn.privacy-mgmt.com
 ccpa-wrapper.privacymanager.io
