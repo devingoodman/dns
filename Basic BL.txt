@@ -156,6 +156,7 @@ simplecast.com
 assets.sitescdn.net
 go.trouter.skype.com
 sales.slickdeals.net
+sentry-api.smartpatient.eu
 390109.smushcdn.com
 snapengage.com
 spot.im
