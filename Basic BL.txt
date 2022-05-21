@@ -98,6 +98,8 @@ hubspot.com
 icanhazip.com
 graph.instagram.com
 widget.intercom.io
+downloads.intercomcdn.com
+fonts.intercomcdn.com
 ip-tracker.org
 assets.juicer.io
 jwplayer.com
