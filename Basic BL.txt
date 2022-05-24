@@ -1,6 +1,7 @@
 1drv.com
 static.ada.support
 api-cf.affirm.com
+aiv-cdn.net
 time.akamai.com
 vop-yahoo.akamaized.net
 akluum.com
