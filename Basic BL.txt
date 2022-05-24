@@ -104,7 +104,7 @@ widget.intercom.io
 downloads.intercomcdn.com
 fonts.intercomcdn.com
 ip-tracker.org
-assets.juicer.io
+juicer.io
 jwplayer.com
 kpcorp.com
 platform.linkedin.com
