@@ -59,7 +59,6 @@ metrics.cpicpgx.org
 check.ddos-guard.net
 anchor.digitalocean.com
 badge.dimensions.ai
-metrics-api.dimensions.ai
 content.discover.com
 content.discovercard.com
 disqus.com
