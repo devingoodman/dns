@@ -129,7 +129,6 @@ static.newsbreak.com
 a.nytimes.com
 consent.cmp.oath.com
 static.olark.com
-track.opentable.com
 paltabrain.com
 siteassets.parastorage.com
 c.paypal.com
