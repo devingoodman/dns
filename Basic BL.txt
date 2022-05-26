@@ -32,6 +32,7 @@ parking.bodiscdn.com
 boxcast.com
 ads-serve.brave.com
 ads-static.brave.com
+p3a.brave.com
 variations.brave.com
 brcclx.com
 players.brightcove.net
