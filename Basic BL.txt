@@ -175,6 +175,7 @@ systeme.io
 goto.target.com
 img.tfd.com
 theapicompany.com
+hits-secure.theguardian.com
 theoplayer.com
 go.theregister.com
 forum.theyachtguy.org
