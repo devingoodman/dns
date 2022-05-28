@@ -14,7 +14,6 @@ amazonaax.com
 amazonalexa.com
 affiliationjs.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
-spectrum.s3.amazonaws.com
 wp-stat.s3.amazonaws.com
 amazonclix.com
 api-hotjar.com
