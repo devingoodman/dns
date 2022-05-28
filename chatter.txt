@@ -3,6 +3,8 @@ device-metrics-us-2.amazon.com
 unagi-na.amazon.com
 iadsdk.apple.com
 conviva.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 metrics.icloud.com
 litix.io
 ichnaea-web.netflix.com
