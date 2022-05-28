@@ -10,8 +10,12 @@ litix.io
 ichnaea-web.netflix.com
 ravm.tv
 ads.roku.com
+benjamin.logs.roku.com
+liberty.logs.roku.com
+mobile.logs.roku.com
 scribe.logs.roku.com
 traces.sr.roku.com
 amoeba-plus.web.roku.com
 customer-feedbacks.web.roku.com
 wwwimg.roku.com
+x.ss2.us
