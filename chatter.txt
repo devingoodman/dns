@@ -5,7 +5,6 @@ iadsdk.apple.com
 conviva.com
 metrics.icloud.com
 litix.io
-ichnaea.netflix.com
 ichnaea-web.netflix.com
 ravm.tv
 ads.roku.com
