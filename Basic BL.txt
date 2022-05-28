@@ -123,7 +123,6 @@ imagesvc.meredithcorp.io
 stun.services.mozilla.com
 myfinance.com
 netdna-ssl.com
-ichnaea.netflix.com
 static.newsbreak.com
 a.nytimes.com
 consent.cmp.oath.com
