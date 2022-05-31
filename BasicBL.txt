@@ -16,6 +16,7 @@ affiliationjs.s3.amazonaws.com
 analyticsengine.s3.amazonaws.com
 wp-stat.s3.amazonaws.com
 amazonclix.com
+amazonforum.com
 api-hotjar.com
 app.link
 in.appcenter.ms
