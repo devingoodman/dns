@@ -9,7 +9,8 @@ metrics.icloud.com
 litix.io
 ichnaea-web.netflix.com
 ravm.tv
-ads.roku.com
+i.ads.roku.com
+cloudservices.roku.com
 benjamin.logs.roku.com
 liberty.logs.roku.com
 mobile.logs.roku.com
