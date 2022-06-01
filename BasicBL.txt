@@ -146,6 +146,7 @@ emoji.redditmedia.com
 diagnostics.redditmedia.com
 reddit.report-uri.com
 pages.resmed.com
+netping.unity.rokuapi.net
 cdnen.rt.com
 scribd.com
 searchanise.com
