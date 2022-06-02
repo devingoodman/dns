@@ -1,5 +1,7 @@
+api.us-east-1.aiv-delivery.net
 spectrum.s3.amazonaws.com
 device-metrics-us-2.amazon.com
+fls-na.amazon.com
 unagi-na.amazon.com
 iadsdk.apple.com
 conviva.com
