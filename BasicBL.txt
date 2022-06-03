@@ -56,6 +56,10 @@ coveo.com
 cdn.coverstand.com
 metrics.cpicpgx.org
 check.ddos-guard.net
+www-no2cn-p1-csb.dell.com
+www-no2cn-p2-csb.dell.com
+www-ea2cn-p1-csb.dell.com
+www-ea2cn-p2-csb.dell.com
 anchor.digitalocean.com
 badge.dimensions.ai
 content.discover.com
