@@ -125,7 +125,6 @@ metrics.media-amazon.com
 megaphone.fm
 imagesvc.meredithcorp.io
 stun.services.mozilla.com
-myfinance.com
 netdna-ssl.com
 static.newsbreak.com
 a.nytimes.com
@@ -172,7 +171,6 @@ snapengage.com
 spot.im
 fpjs-pro-3-npm.stackblitz.io
 analytics.stacker.com
-socket.streamable.com
 surveygizmo.com
 search-api.swiftype.com
 symcd.com
