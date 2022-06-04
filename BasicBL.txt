@@ -22,6 +22,7 @@ app.link
 in.appcenter.ms
 stats.gc.apple.com
 lnarswc5ox6hzr-app.apple.com
+web-sdk.aptrinsic.com
 cdn.arkadiumhosted.com
 bazaarvoice.com
 bjads.bejbej.ca
@@ -158,6 +159,7 @@ searchiq.co
 setapp.com
 seogears.com
 monorail-edge.shopifysvc.com
+content.shoprunner.com
 shortpixel.ai
 sibforms.com
 simplecast.com
