@@ -119,6 +119,7 @@ lura.live
 static-cdn.mackeeper.com
 analytics.madgex.com
 cdn-images.mailchimp.com
+downloads.mailchimp.com
 mailmunch.co
 mlab-oti.measurement-lab.org
 metrics.media-amazon.com
