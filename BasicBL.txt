@@ -43,6 +43,7 @@ vidtech.cbsinteractive.com
 chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
+cloudflareinsights.com
 d1g1f25tn8m2e6.cloudfront.net
 d2em1d4z1elu3k.cloudfront.net
 d335luupugsy2.cloudfront.net
