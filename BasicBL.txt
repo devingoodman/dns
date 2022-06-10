@@ -126,6 +126,7 @@ mlab-oti.measurement-lab.org
 metrics.media-amazon.com
 megaphone.fm
 imagesvc.meredithcorp.io
+pages.mindbodyonline.com
 stun.services.mozilla.com
 netdna-ssl.com
 static.newsbreak.com
@@ -144,6 +145,7 @@ pricespider.com
 cdn.privacy-mgmt.com
 ccpa-wrapper.privacymanager.io
 gdpr-wrapper.privacymanager.io
+urldefense.proofpoint.com
 pusher.com
 ws.pusherapp.com
 queryly.com
