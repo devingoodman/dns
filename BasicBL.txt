@@ -132,6 +132,7 @@ static.newsbreak.com
 a.nytimes.com
 consent.cmp.oath.com
 static.olark.com
+openfpcdn.io
 paltabrain.com
 siteassets.parastorage.com
 c.paypal.com
