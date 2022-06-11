@@ -1,7 +1,6 @@
 012proxy.ga
 123-24.eport.gr
 12vpx.com
-1dot1dot1dot1.cloudflare-dns.com
 1freeproxy.pw
 2.dnscrypt-cert.dns.seby.io
 24tunnel.com
@@ -447,8 +446,6 @@ lux1.nixnet.xyz
 lv1.nixnet.xyz
 maddw.com
 mask-api.icloud.com
-mask-h2.icloud.com
-mask.icloud.com
 megaproxy.com
 mehide.asia
 metproxy.com
