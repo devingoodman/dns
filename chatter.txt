@@ -9,6 +9,7 @@ crashlyticsreports-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 metrics.icloud.com
 litix.io
+ichnaea.netflix.com
 ichnaea-web.netflix.com
 ravm.tv
 i.ads.roku.com
