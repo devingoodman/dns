@@ -3,6 +3,7 @@ spectrum.s3.amazonaws.com
 device-metrics-us-2.amazon.com
 fls-na.amazon.com
 unagi-na.amazon.com
+app-measurement.com
 iadsdk.apple.com
 conviva.com
 crashlyticsreports-pa.googleapis.com
