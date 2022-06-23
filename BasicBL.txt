@@ -163,7 +163,6 @@ content.shoprunner.com
 shortpixel.ai
 sibforms.com
 simplecast.com
-assets.sitescdn.net
 go.trouter.skype.com
 sales.slickdeals.net
 sentry-api.smartpatient.eu
