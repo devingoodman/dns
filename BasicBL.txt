@@ -98,6 +98,7 @@ hsforms.net
 hubspot.com
 icanhazip.com
 inbenta.io
+graph.instagram.com
 widget.intercom.io
 downloads.intercomcdn.com
 fonts.intercomcdn.com
