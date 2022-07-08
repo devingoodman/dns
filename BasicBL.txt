@@ -84,10 +84,7 @@ geni.us
 cdn.getcarro.com
 socialize.us1.gigya.com
 collector.github.com
-firebase.google.com
 translate.google.com
-firebaseremoteconfig.googleapis.com
-firestore.googleapis.com
 imasdk.googleapis.com
 translate.googleapis.com
 gravatar.com
