@@ -122,7 +122,6 @@ megaphone.fm
 imagesvc.meredithcorp.io
 pages.mindbodyonline.com
 stun.services.mozilla.com
-netdna-ssl.com
 static.newsbreak.com
 a.nytimes.com
 consent.cmp.oath.com
