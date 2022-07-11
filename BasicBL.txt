@@ -109,7 +109,6 @@ analytics.madgex.com
 cdn-images.mailchimp.com
 downloads.mailchimp.com
 mlab-oti.measurement-lab.org
-metrics.media-amazon.com
 megaphone.fm
 imagesvc.meredithcorp.io
 pages.mindbodyonline.com
@@ -118,7 +117,6 @@ static.newsbreak.com
 a.nytimes.com
 consent.cmp.oath.com
 static.olark.com
-openfpcdn.io
 paltabrain.com
 siteassets.parastorage.com
 c.paypal.com
