@@ -5,7 +5,6 @@ time.akamai.com
 vop-yahoo.akamaized.net
 akluum.com
 alexa.com
-altmetric.com
 m.alto.com
 sentry.infra.alto.com
 advertising.amazon.com
