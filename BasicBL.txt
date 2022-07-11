@@ -64,7 +64,6 @@ api.dmcdn.net
 myip.dnsomatic.com
 beacon.dropbox.com
 invoice-analytics.dropbox.com
-dropboxfingerprintjs.com
 duckdns.org
 embed.ly
 go.engiestorage.com
