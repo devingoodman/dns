@@ -164,6 +164,7 @@ search-api.swiftype.com
 symcd.com
 systeme.io
 goto.target.com
+termsandconditionscheckbox.com
 img.tfd.com
 theapicompany.com
 theoplayer.com
