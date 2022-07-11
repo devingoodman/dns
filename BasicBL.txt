@@ -68,7 +68,6 @@ duckdns.org
 embed.ly
 go.engiestorage.com
 esputnik.com
-ezoic.com
 fingerprintjs.com
 cdn.fbsbx.com
 fdncms.com
