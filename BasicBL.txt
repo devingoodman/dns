@@ -25,7 +25,6 @@ bazaarvoice.com
 bjads.bejbej.ca
 bitmovin.com
 sourcepointcmp.bloomberg.com
-parking.bodiscdn.com
 boxcast.com
 ads-serve.brave.com
 ads-static.brave.com
