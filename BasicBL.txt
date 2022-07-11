@@ -121,7 +121,6 @@ paltabrain.com
 siteassets.parastorage.com
 c.paypal.com
 analytics.pharmacy-demo.com
-pixels.ai
 podtrac.com
 ampmetrics.politico.com
 pricespider.com
