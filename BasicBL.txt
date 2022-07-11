@@ -130,6 +130,7 @@ gdpr-wrapper.privacymanager.io
 urldefense.proofpoint.com
 pusher.com
 ws.pusherapp.com
+qualtrics.com
 queryly.com
 quivers.com
 d.reddit.com
