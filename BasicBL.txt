@@ -20,7 +20,6 @@ app.link
 in.appcenter.ms
 stats.gc.apple.com
 lnarswc5ox6hzr-app.apple.com
-web-sdk.aptrinsic.com
 cdn.arkadiumhosted.com
 bazaarvoice.com
 bjads.bejbej.ca
