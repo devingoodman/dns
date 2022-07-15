@@ -78,6 +78,7 @@ futurecdn.net
 geni.us
 socialize.us1.gigya.com
 collector.github.com
+play.google.com
 translate.google.com
 imasdk.googleapis.com
 translate.googleapis.com
