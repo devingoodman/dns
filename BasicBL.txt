@@ -18,7 +18,9 @@ amazonforum.com
 api-hotjar.com
 app.link
 in.appcenter.ms
+experiments.apple.com
 stats.gc.apple.com
+ipcdn.apple.com
 lnarswc5ox6hzr-app.apple.com
 cdn.arkadiumhosted.com
 bazaarvoice.com
@@ -26,6 +28,7 @@ bjads.bejbej.ca
 bitmovin.com
 sourcepointcmp.bloomberg.com
 boxcast.com
+braintreegateway.com
 ads-serve.brave.com
 ads-static.brave.com
 p3a.brave.com
@@ -36,6 +39,7 @@ content.castlighthealth.com
 login.cbc.ca
 subscriptions.cbc.ca
 vidtech.cbsinteractive.com
+ml.cdn-apple.com
 chimpstatic.com
 content22.citicards.com
 cdn.cityspark.com
